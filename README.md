@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @mortycodes
-- 👀 I’m interested in open distibuted systems
-- 🌱 I’m currently learning solidity/rust
-- 💞️ I’m looking to collaborate on evm development/ or any other cool stuff 
 - 📫 hit me up at mortycodes@protonmail.com
 
 <!---
